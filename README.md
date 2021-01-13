@@ -1,2 +1,2 @@
 # portfolio
-### [Live Link](https://rajuahmmadhridoy.github.io/portfolio-/)
+### [Live Link](https://rajuahmmadhridoy.github.io/portfolio/)
